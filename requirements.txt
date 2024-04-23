@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+streamlit
+st-annotated-text
+pytest
+guidance
+pydantic
